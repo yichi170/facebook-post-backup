@@ -8,6 +8,7 @@ packages = [{include = "facebook_post_backup"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+facebook-scraper = "^0.2.59"
 
 
 [build-system]
