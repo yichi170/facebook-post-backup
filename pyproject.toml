@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "facebook-post-backup"
+version = "0.1.0"
+description = "A simple script to backup the post on Facebook"
+authors = ["yichi170 <ilee900620@gmail.com>"]
+readme = "README.md"
+packages = [{include = "facebook_post_backup"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
