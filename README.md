@@ -1,6 +1,6 @@
 # Facebook Post Backup Tool
 
-## Overview
+## Motivation
 
 With the current Facebook policies in place, there's a risk that significant posts may be removed due to malicious reports. To safeguard against this, I write a simple script to back up posts shared on Facebook.
 
